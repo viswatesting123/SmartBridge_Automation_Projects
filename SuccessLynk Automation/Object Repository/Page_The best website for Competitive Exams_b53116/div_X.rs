@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_X</name>
+   <tag></tag>
+   <elementGuidId>a4042adc-8063-49ad-93c1-093ac46db6d9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.close-btn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Mobile App'])[1]/following::div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>651b9c57-a49e-4ff1-bfa0-be8b14877b03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>close-btn</value>
+      <webElementGuid>26764862-34dc-4d83-afdd-24e259488bf8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>regCtrl.closePopup()</value>
+      <webElementGuid>5facffac-6225-4cde-87e8-b92f90113ab7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>X</value>
+      <webElementGuid>d1d2a0b7-af07-4f49-b332-5737597db16e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;modal-open&quot;]/div[@class=&quot;modal loginwindow fade ng-scope ng-isolate-scope in&quot;]/div[@class=&quot;modal-dialog modal-login&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;loginpopup ng-scope&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-7 col-md-12 col-12 col-sm-12 side-right&quot;]/div[@class=&quot;close-btn&quot;]</value>
+      <webElementGuid>6684589c-f432-44f7-a36b-4cdb6affbe60</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mobile App'])[1]/following::div[2]</value>
+      <webElementGuid>8698136d-e992-4198-b8af-8c2accec1066</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Self-Assess and win prizes'])[1]/following::div[2]</value>
+      <webElementGuid>d5690ed5-c3d4-4ed6-a2fa-938f4c6fe23a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/preceding::div[1]</value>
+      <webElementGuid>6e9fbc18-9221-4963-b7b8-e53c13b65dcf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Register'])[1]/preceding::div[2]</value>
+      <webElementGuid>a46bfb24-1ca6-439a-9e0b-bb6669c4dcff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='X']/parent::*</value>
+      <webElementGuid>3ad5e650-3eb0-47ec-9a13-ab61e7aac316</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div</value>
+      <webElementGuid>aca9f439-2eb2-4d60-9a8a-69f8b93d2fac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'X' or . = 'X')]</value>
+      <webElementGuid>dae1e410-8881-4f85-b981-f6300f0f35af</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

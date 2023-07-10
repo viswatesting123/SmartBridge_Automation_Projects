@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_X</name>
+   <tag></tag>
+   <elementGuidId>fdeb880f-6faa-418b-96ec-2a3eea13be2f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.close-icon</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Daily Quiz'])[1]/following::span[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d712dcf4-d6be-4317-ab50-f0d95509995c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>close-icon</value>
+      <webElementGuid>9ca1e929-082a-41ec-9f6a-b0435c0a1084</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>headCtrl.closeInterstitialsType('popup')</value>
+      <webElementGuid>6b9c78a2-67fc-4d41-be9b-e5584870b3c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>X</value>
+      <webElementGuid>7be491f1-e6da-4c2e-af07-2f953e9e7225</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;landscape-class&quot;]/div[@class=&quot;orientation-changes&quot;]/home-header[1]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;pageloadpopup fadepop&quot;]/div[@class=&quot;popupheader&quot;]/span[@class=&quot;close-icon&quot;]</value>
+      <webElementGuid>06114b16-2ae9-4bc7-b103-53a32182ed1f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daily Quiz'])[1]/following::span[1]</value>
+      <webElementGuid>8714fc69-a57c-4998-9447-53b70069a437</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[1]/following::span[1]</value>
+      <webElementGuid>6a8d3b2e-d29a-4673-9dcc-49e128b4db83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Exams'])[3]/preceding::span[1]</value>
+      <webElementGuid>85d637bd-7f4c-40d3-931e-808e0ec502fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View All'])[2]/preceding::span[1]</value>
+      <webElementGuid>6738fab0-f940-415a-89a6-6eb6f5de9a10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='X']/parent::*</value>
+      <webElementGuid>ae957800-8bb7-41eb-a6ca-447caf74ce3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/span</value>
+      <webElementGuid>9db0beb2-9cdf-4c01-9d2f-d7d43d79d88b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'X' or . = 'X')]</value>
+      <webElementGuid>bb067773-570b-42e7-ad50-7f22774db601</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

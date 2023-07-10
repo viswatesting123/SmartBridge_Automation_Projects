@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Exams</name>
+   <tag></tag>
+   <elementGuidId>7d79dc3b-0b94-424a-9bbe-07aa326f20d1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.nav-link.disply-megamenu.btm-line.grid-bg.ng-binding</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Exams')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>29aa58d9-f91e-4f7c-8929-74a0efd3a7a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-link disply-megamenu btm-line grid-bg ng-binding</value>
+      <webElementGuid>08214e7e-bd91-432b-a6c2-874987feab55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Exams</value>
+      <webElementGuid>7d5d11fd-93f1-414e-8425-be7877583b25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;landscape-class&quot;]/div[@class=&quot;orientation-changes&quot;]/home-header[1]/div[@class=&quot;menu ng-scope&quot;]/div[@class=&quot;exams-menu-sec strip-margin&quot;]/div[@class=&quot;custom-container-fluid&quot;]/nav[@class=&quot;navbar navbar-expand-lg p-0&quot;]/div[@class=&quot;container p-0&quot;]/div[@class=&quot;collapse navbar-collapse&quot;]/ul[@class=&quot;navbar-nav ml-auto align-items-center&quot;]/li[@class=&quot;ng-scope&quot;]/div[@class=&quot;mega-menu ng-scope&quot;]/a[@class=&quot;nav-link disply-megamenu btm-line grid-bg ng-binding&quot;]</value>
+      <webElementGuid>297f7bfd-f108-483b-ba3c-0e1a1bf256fa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Exams')]</value>
+      <webElementGuid>6e360e67-b32f-4dba-b933-5c7fec5c7590</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mock Test'])[1]/following::a[2]</value>
+      <webElementGuid>21a44e7a-54ed-4177-90ea-8939a4bee970</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Want to Publish Tests?'])[1]/following::a[3]</value>
+      <webElementGuid>61bfb54d-2228-4187-9ced-81a73e32c8eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='RRB NTPC 2021'])[1]/preceding::a[1]</value>
+      <webElementGuid>d0ce022c-3354-4654-8928-97f895b9f908</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Previous year papers'])[1]/preceding::a[2]</value>
+      <webElementGuid>54053e19-1399-4d75-9e1c-977e34c1306c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Exams']/parent::*</value>
+      <webElementGuid>fc1d6ac7-7d4a-4490-8787-0f6311d62c40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/nav/div/div/ul/li/div/a</value>
+      <webElementGuid>e5e46c76-6174-4865-b439-a4922fc0b83b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'Exams' or . = 'Exams')]</value>
+      <webElementGuid>66edc1f6-3632-4e90-954d-1302b10faaff</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
