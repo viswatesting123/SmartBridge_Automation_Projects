@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+   <description>
+Riata offers a dazzlingly deluxe, one-of-a-kind authentic Austin experience — from an amenity list as big as Texas all the way down to the coziest details in each of our gorgeously crafted apartments, town homes, and single-family homes. Discover the countless reasons North Austin’s most iconic community is also the most desirable — from our gorgeous apartment homes featuring soaring ceilings and designer finishes down to our hand-scraped custom hardwood flooring — it’s just one gorgeous detail after another.
+</description>
+   <name>Riata Automation</name>
+   <tag></tag>
+   <UUID>80787f76-7ed2-4d40-88da-6c103945a9b2</UUID>
+   <migratedVersion>5.9.0</migratedVersion>
+   <pageLoadTimeout>0</pageLoadTimeout>
+   <sourceContent>
+      <sourceFolderList>
+         <sourceFolderConfiguration>
+            <url>Include/scripts/groovy</url>
+         </sourceFolderConfiguration>
+      </sourceFolderList>
+      <systemFolderList>
+         <systemFolderConfiguration>
+            <url>Include/scripts/groovy</url>
+         </systemFolderConfiguration>
+         <systemFolderConfiguration>
+            <url>Include/features</url>
+         </systemFolderConfiguration>
+         <systemFolderConfiguration>
+            <url>Include/config</url>
+         </systemFolderConfiguration>
+      </systemFolderList>
+   </sourceContent>
+   <timeStampInProperties>false</timeStampInProperties>
+   <type>WEBUI</type>
+</Project>
