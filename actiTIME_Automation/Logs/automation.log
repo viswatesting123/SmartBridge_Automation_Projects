@@ -1,0 +1,6 @@
+INFO     root:test_login.py:16 *************** Test_001_Login *****************
+INFO     root:test_login.py:17 ****Started Home page title test for automation ****
+INFO     root:test_login.py:19 ****Opening URL****
+INFO     root:test_login.py:24 **** Home page title test passed ****
+INFO     root:test_login.py:34 ****Started Login Test****
+INFO     root:test_login.py:44 ****Login test passed ****
