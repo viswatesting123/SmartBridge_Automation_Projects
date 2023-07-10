@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+   <description>The OrangeHRM project is a Katalon automation project that utilizes the Selenium framework for automating web interactions. This documentation provides an overview of the project, instructions for installation and configuration, details about the project structure, and examples of test cases.
+
+Project Overview
+The OrangeHRM project aims to automate various tasks on the OrangeHRM website. It leverages Katalon studio, a powerful web automation tool, to interact with web elements and perform actions such as clicking buttons, filling forms, and extracting data.
+</description>
+   <name>OrangeHRM</name>
+   <tag></tag>
+   <UUID>5633228e-8d9c-4aa8-af95-79c4b5981a24</UUID>
+   <migratedVersion>5.9.0</migratedVersion>
+   <pageLoadTimeout>0</pageLoadTimeout>
+   <sourceContent>
+      <sourceFolderList>
+         <sourceFolderConfiguration>
+            <url>Include/scripts/groovy</url>
+         </sourceFolderConfiguration>
+      </sourceFolderList>
+      <systemFolderList>
+         <systemFolderConfiguration>
+            <url>Include/scripts/groovy</url>
+         </systemFolderConfiguration>
+         <systemFolderConfiguration>
+            <url>Include/features</url>
+         </systemFolderConfiguration>
+         <systemFolderConfiguration>
+            <url>Include/config</url>
+         </systemFolderConfiguration>
+      </systemFolderList>
+   </sourceContent>
+   <timeStampInProperties>false</timeStampInProperties>
+   <type>WEBUI</type>
+</Project>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Event Types</name>
+   <tag></tag>
+   <elementGuidId>bc9e2171-3c59-480a-8679-cc84045af133</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.qvdtACooQQHxzry7D4sj.VqO2f5VTZX1QGlD9TC9T</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/main/div/div/div/div[2]/nav/ul/li</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>d6806961-04d3-44ae-8660-15697dc4b5ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>qvdtACooQQHxzry7D4sj VqO2f5VTZX1QGlD9TC9T</value>
+      <webElementGuid>f9149d45-2064-44e6-a995-3148c8ea3d14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Event Types</value>
+      <webElementGuid>0bd83c26-b9c1-4cea-9b70-3e6f10340623</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;bQ_IvAJyMswLH8t9BfyH yohIaPQ8hKIYSUtsEb_W&quot;]/div[@class=&quot;KugZaZLca_qtYXtJk40b ZNeCdjc2mOlTaKHoVdtV&quot;]/main[@class=&quot;e5O3DgXvSgWPoACoTevm zq_pp2IBb5lpS8hhNM2e&quot;]/div[1]/div[@class=&quot;GMwLmrl_fLBhLUXbzW4q Td4h_160kwlAgJdqtHRk&quot;]/div[@class=&quot;_3Ot979ee0nA8tiH0U1N _70Gic_HNRgdVz2iJvRT&quot;]/div[@class=&quot;M2jlWzCv8GTSy06Q7q_E _Hgp5Qls5wI2HfjaYPBT&quot;]/nav[@class=&quot;LwHepQnP0lsCVKmOz4p9 mBjFDvJQVVcntKINx8Js K5XFhcDTUsEo0YGV0q4c g_nnjqn1ZWI5s6lEOwyg&quot;]/ul[@class=&quot;ilEizX9f89CV66rscn3K DqtgWA61ygf567lB_glW&quot;]/li[@class=&quot;qvdtACooQQHxzry7D4sj VqO2f5VTZX1QGlD9TC9T&quot;]</value>
+      <webElementGuid>915cc3b5-a331-4a2b-aaa3-779f6473c735</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/main/div/div/div/div[2]/nav/ul/li</value>
+      <webElementGuid>b8d46fbb-3900-446f-9845-716f3f1d4c1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create'])[1]/following::li[1]</value>
+      <webElementGuid>05300976-31ab-4488-8dee-6a952ee62152</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Calendly'])[1]/following::li[1]</value>
+      <webElementGuid>25fdd700-dab3-4a74-8814-f739638707d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Scheduled Events'])[1]/preceding::li[1]</value>
+      <webElementGuid>a7647c10-4b29-4bf1-810f-77f449227337</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav/ul/li</value>
+      <webElementGuid>a73bbdf3-a868-4cf2-8a8e-35ec122eb622</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Event Types' or . = 'Event Types')]</value>
+      <webElementGuid>83b5c412-a8ff-4e2f-b039-cb30a199524f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

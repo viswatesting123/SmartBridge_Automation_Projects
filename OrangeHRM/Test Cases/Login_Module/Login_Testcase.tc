@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login testing senario</description>
+   <name>Login_Testcase</name>
+   <tag>Smoke</tag>
+   <comment></comment>
+   <testCaseGuid>355b243d-be2e-4644-9e2d-32f650063cfa</testCaseGuid>
+</TestCaseEntity>

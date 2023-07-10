@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 6.0.2 (Python 3.8.6 on win32)" generated="20230623 11:49:49.866" rpa="false" schemaversion="3">
+<suite id="s1" name="Test Web Create Party Contract" source="D:\Python Automation\FinTech_Automation\FinTech\testCases\Test_Web_Create_Party_Contract.robot">
+<test id="s1-t1" name="ATHENA-111: Create Party, contract and other information about fintech products" line="20">
+<kw name="Setup browser" library="Page_object_athena_web" type="SETUP">
+<kw name="Set Selenium Timeout" library="SeleniumLibrary">
+<arg>${UI_TIMEOUT}s</arg>
+<doc>Sets the timeout that is used by various keywords.</doc>
+<status status="PASS" starttime="20230623 11:49:50.120" endtime="20230623 11:49:50.121"/>
+</kw>
+<kw name="Open Browser" library="SeleniumLibrary">
+<arg>${login_url}</arg>
+<arg>browser=${BROWSER}</arg>
+<doc>Opens a new browser instance to the optional ``url``.</doc>
+<msg timestamp="20230623 11:49:50.121" level="INFO">Opening browser 'chrome' to base url 'https://test.athenafintech.com'.</msg>
+<msg timestamp="20230623 11:49:50.127" level="INFO">Applicable driver not found; attempting to install with Selenium Manager (Beta)</msg>
+<status status="PASS" starttime="20230623 11:49:50.121" endtime="20230623 11:49:59.767"/>
+</kw>
+<kw name="Maximize Browser Window" library="SeleniumLibrary">
+<doc>Maximizes current browser window.</doc>
+<status status="PASS" starttime="20230623 11:49:59.767" endtime="20230623 11:49:59.969"/>
+</kw>
+<status status="PASS" starttime="20230623 11:49:50.120" endtime="20230623 11:49:59.969"/>
+</kw>
+<kw name="Login as" library="Page_object_athena_web">
+<arg>${athena_user_info['username']}</arg>
+<arg>${athena_user_info['password']}</arg>
+<kw name="Click Element" library="SeleniumLibrary">
+<arg>${athena_username}</arg>
+<doc>Click the element identified by ``locator``.</doc>
+<msg timestamp="20230623 11:49:59.975" level="INFO">Clicking element '//input[@name='email']'.</msg>
+<status status="PASS" starttime="20230623 11:49:59.973" endtime="20230623 11:50:00.177"/>
+</kw>
+<kw name="Input Text" library="SeleniumLibrary">
+<arg>${athena_username}</arg>
+<arg>${username}</arg>
+<doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
+<msg timestamp="20230623 11:50:00.177" level="INFO">Typing text 'chandana@athenafintech.com' into text field '//input[@name='email']'.</msg>
+<status status="PASS" starttime="20230623 11:50:00.177" endtime="20230623 11:50:00.348"/>
+</kw>
+<kw name="Click Element" library="SeleniumLibrary">
+<arg>${athena_password}</arg>
+<doc>Click the element identified by ``locator``.</doc>
+<msg timestamp="20230623 11:50:00.349" level="INFO">Clicking element '//input[@name='password']'.</msg>
+<status status="PASS" starttime="20230623 11:50:00.348" endtime="20230623 11:50:00.403"/>
+</kw>
+<kw name="Input Text" library="SeleniumLibrary">
+<arg>${athena_password}</arg>
+<arg>${password}</arg>
+<doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
+<msg timestamp="20230623 11:50:00.405" level="INFO">Typing text 'admin@12345' into text field '//input[@name='password']'.</msg>
+<status status="PASS" starttime="20230623 11:50:00.404" endtime="20230623 11:50:00.555"/>
+</kw>
+<kw name="Sleep" library="BuiltIn">
+<arg>10s</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<msg timestamp="20230623 11:50:10.559" level="INFO">Slept 10 seconds</msg>
+<status status="PASS" starttime="20230623 11:50:00.556" endtime="20230623 11:50:10.559"/>
+</kw>
+<kw name="Execute Javascript" library="SeleniumLibrary">
+<arg>window.scrollTo(0,document.body.scrollHeight)</arg>
+<doc>Executes the given JavaScript code with possible arguments.</doc>
+<msg timestamp="20230623 11:50:10.560" level="INFO">Executing JavaScript:
+window.scrollTo(0,document.body.scrollHeight)
+Without any arguments.</msg>
+<status status="PASS" starttime="20230623 11:50:10.559" endtime="20230623 11:50:10.587"/>
+</kw>
+<kw name="Click Element" library="SeleniumLibrary">
+<arg>${login_button}</arg>
+<doc>Click the element identified by ``locator``.</doc>
+<msg timestamp="20230623 11:50:10.588" level="INFO">Clicking element '//button[@name='login']'.</msg>
+<status status="PASS" starttime="20230623 11:50:10.588" endtime="20230623 11:50:10.678"/>
+</kw>
+<kw name="Wait Until Page Does Not Contain Element" library="SeleniumLibrary">
+<arg>${login_button}</arg>
+<doc>Waits until the element ``locator`` disappears from the current page.</doc>
+<status status="PASS" starttime="20230623 11:50:10.679" endtime="20230623 11:50:11.373"/>
+</kw>
+<status status="PASS" starttime="20230623 11:49:59.970" endtime="20230623 11:50:11.373"/>
+</kw>
+<kw name="Verify the Athena Dashboard page is visible" library="Page_object_athena_web">
+<kw name="Sleep" library="BuiltIn">
+<arg>5s</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<msg timestamp="20230623 11:50:16.383" level="INFO">Slept 5 seconds</msg>
+<status status="PASS" starttime="20230623 11:50:11.374" endtime="20230623 11:50:16.383"/>
+</kw>
+<kw name="Wait Until Element Is Visible" library="SeleniumLibrary">
+<arg>${dashboard_page}</arg>
+<doc>Waits until the element ``locator`` is visible.</doc>
+<status status="PASS" starttime="20230623 11:50:16.383" endtime="20230623 11:50:16.454"/>
+</kw>
+<status status="PASS" starttime="20230623 11:50:11.373" endtime="20230623 11:50:16.454"/>
+</kw>
+<kw name="Log out" library="Page_object_athena_web">
+<kw name="Close Browser" library="SeleniumLibrary">
+<doc>Closes the current browser.</doc>
+<status status="PASS" starttime="20230623 11:50:16.454" endtime="20230623 11:50:20.325"/>
+</kw>
+<status status="PASS" starttime="20230623 11:50:16.454" endtime="20230623 11:50:20.326"/>
+</kw>
+<kw name="Close Browser" library="SeleniumLibrary" type="TEARDOWN">
+<doc>Closes the current browser.</doc>
+<status status="PASS" starttime="20230623 11:50:20.326" endtime="20230623 11:50:20.326"/>
+</kw>
+<tag>Smoke</tag>
+<tag>underdev</tag>
+<tag>underuat</tag>
+<tag>viswa</tag>
+<status status="PASS" starttime="20230623 11:49:50.119" endtime="20230623 11:50:20.327"/>
+</test>
+<status status="PASS" starttime="20230623 11:49:49.868" endtime="20230623 11:50:20.328"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+<stat pass="1" fail="0" skip="0">Smoke</stat>
+<stat pass="1" fail="0" skip="0">underdev</stat>
+<stat pass="1" fail="0" skip="0">underuat</stat>
+<stat pass="1" fail="0" skip="0">viswa</stat>
+</tag>
+<suite>
+<stat pass="1" fail="0" skip="0" id="s1" name="Test Web Create Party Contract">Test Web Create Party Contract</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>

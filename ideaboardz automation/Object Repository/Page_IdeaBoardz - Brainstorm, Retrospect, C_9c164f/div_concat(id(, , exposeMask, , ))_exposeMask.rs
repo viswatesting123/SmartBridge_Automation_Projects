@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_concat(id(, , exposeMask, , ))_exposeMask</name>
+   <tag></tag>
+   <elementGuidId>3236e377-324b-4acc-a40a-608986c0a9cb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#exposeMask</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='exposeMask']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7c60f44c-5429-4318-ac31-7888782bc375</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>exposeMask</value>
+      <webElementGuid>0fc03aba-5d5e-45d6-aa98-2c80a6de1829</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;exposeMask&quot;)</value>
+      <webElementGuid>4e3df67a-a0d9-4f3e-89b4-3aa02d27d5d3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='exposeMask']</value>
+      <webElementGuid>51fef0b9-647a-4e3e-a72a-1c94adac1109</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]</value>
+      <webElementGuid>b09e0526-407c-4c5a-aeee-d499d760daf4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'exposeMask']</value>
+      <webElementGuid>674c9dd7-e302-42a2-bedf-958c2a018de1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

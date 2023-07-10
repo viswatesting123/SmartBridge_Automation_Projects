@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Register</name>
+   <tag></tag>
+   <elementGuidId>2de07467-e182-4311-80a9-d65354a833ab</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/following::div[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b2886f85-3cef-4606-9e1e-e9d59861b311</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tabs ng-binding</value>
+      <webElementGuid>a4114cb5-e020-4d02-abab-8817471bb048</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>regCtrl.showForms('register')</value>
+      <webElementGuid>d5a7e978-eb83-41a9-88b4-d637098256f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-show</name>
+      <type>Main</type>
+      <value>(regCtrl.pageTitle== 'register'||regCtrl.pageTitle =='login') &amp;&amp; regCtrl.allowRegistration</value>
+      <webElementGuid>c19517a9-32f4-4e79-8209-fd9257734b71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-class</name>
+      <type>Main</type>
+      <value>{'active':regCtrl.pageTitle ==='register'}</value>
+      <webElementGuid>0130fd6e-b005-4d4e-8598-19e850199419</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Register</value>
+      <webElementGuid>ed6fad31-3d9c-4b11-9b13-7af738585742</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;modal-open&quot;]/div[@class=&quot;modal loginwindow fade ng-scope ng-isolate-scope in&quot;]/div[@class=&quot;modal-dialog modal-login&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;loginpopup ng-scope&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-7 col-md-12 col-12 col-sm-12 side-right&quot;]/section[@class=&quot;tabs-container&quot;]/div[@class=&quot;tabs ng-binding&quot;]</value>
+      <webElementGuid>0d070117-4ed9-4d38-aace-e6f20e7e72d1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/following::div[1]</value>
+      <webElementGuid>2ac18a75-1de0-46fb-9456-835fd8083883</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='X'])[1]/following::div[2]</value>
+      <webElementGuid>6f1147f7-a963-49cc-a3d0-0661a3725232</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Activate'])[1]/preceding::div[1]</value>
+      <webElementGuid>3a6a46b5-034b-43e3-a8f7-be005faba0c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Activate Account'])[1]/preceding::div[2]</value>
+      <webElementGuid>736a2351-1b77-49b7-b3d8-dbd2da7bdadb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Register']/parent::*</value>
+      <webElementGuid>92df77fe-2c02-4f55-9b7b-c8a0166dbf48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div[2]</value>
+      <webElementGuid>3f46566d-28c2-461f-9c4a-61b265d93439</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Register' or . = 'Register')]</value>
+      <webElementGuid>bd518094-4af8-4bbc-8e17-551a76960623</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

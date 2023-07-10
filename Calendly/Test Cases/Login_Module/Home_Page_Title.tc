@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Home page title validation</description>
+   <name>Home_Page_Title</name>
+   <tag>Smoke</tag>
+   <comment></comment>
+   <testCaseGuid>9a92b027-474e-47fa-ac33-48768f151ed4</testCaseGuid>
+</TestCaseEntity>
