@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Account</name>
+   <tag></tag>
+   <elementGuidId>ac38c013-ac1e-4d45-894e-40133b360c46</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div._LZQcFcu_2zOGXhyWXo_._9AaWZ0C4Ea8CXwmJ_Tq</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='main-user-menu-toggle']/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>df70fd3a-1798-44d7-b14a-73546b48ddb3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_LZQcFcu_2zOGXhyWXo_ _9AaWZ0C4Ea8CXwmJ_Tq</value>
+      <webElementGuid>8c6645fa-3149-4e32-b3bb-5065c17c7a1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Account</value>
+      <webElementGuid>9ceec4b5-5270-40fb-b03e-fec44c050796</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-user-menu-toggle&quot;)/div[@class=&quot;_LZQcFcu_2zOGXhyWXo_ _9AaWZ0C4Ea8CXwmJ_Tq&quot;]</value>
+      <webElementGuid>facad081-167f-42e4-ae16-7f72dcb5ad0d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='main-user-menu-toggle']/div[2]</value>
+      <webElementGuid>e8967db9-adc5-4d5e-b242-1b23b12d81a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A'])[1]/following::div[1]</value>
+      <webElementGuid>618ad4d8-24cc-483e-a901-f3cbcea7d9ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Help'])[1]/following::div[4]</value>
+      <webElementGuid>693bfb23-1107-4fbd-bb80-06a08c1e11e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Calendly'])[1]/preceding::div[1]</value>
+      <webElementGuid>deb4d941-152f-47a4-9049-697a9cd7fefd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create'])[1]/preceding::div[4]</value>
+      <webElementGuid>cef4d8a0-b93f-41df-bc8f-4f21e9f7ee86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Account']/parent::*</value>
+      <webElementGuid>67150278-16b4-4e5c-b307-8c813d21c564</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/div[2]</value>
+      <webElementGuid>363cbe8a-7b7a-4d5e-bde1-2457ed710808</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Account' or . = 'Account')]</value>
+      <webElementGuid>114887c3-4dd0-4da9-b8d2-ac7b2f27fbe5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+   <description>Calendly is an online scheduling tool that allows individuals and businesses to easily manage and schedule appointments, meetings, and events. It simplifies the process of finding mutually convenient meeting times by eliminating the need for back-and-forth email exchanges or phone calls.
+
+With Calendly, users can create personalized scheduling links that they can share with others. When someone wants to schedule a meeting, they can simply click on the link, view the available time slots, and select a time that works best for them. Once a time is chosen, Calendly automatically sends confirmation notifications to all parties involved, and the meeting is added to everyone's calendar.
+</description>
+   <name>Calendly</name>
+   <tag></tag>
+   <UUID>a05ffec8-52b7-42bf-ba11-8d70017c6984</UUID>
+   <migratedVersion>5.9.0</migratedVersion>
+   <pageLoadTimeout>0</pageLoadTimeout>
+   <sourceContent>
+      <sourceFolderList>
+         <sourceFolderConfiguration>
+            <url>Include/scripts/groovy</url>
+         </sourceFolderConfiguration>
+      </sourceFolderList>
+      <systemFolderList>
+         <systemFolderConfiguration>
+            <url>Include/scripts/groovy</url>
+         </systemFolderConfiguration>
+         <systemFolderConfiguration>
+            <url>Include/features</url>
+         </systemFolderConfiguration>
+         <systemFolderConfiguration>
+            <url>Include/config</url>
+         </systemFolderConfiguration>
+      </systemFolderList>
+   </sourceContent>
+   <timeStampInProperties>false</timeStampInProperties>
+   <type>WEBUI</type>
+</Project>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Account_QEYsMNdeD6XNZY8gjzhC j8nFROWmP_4cb8ac</name>
+   <tag></tag>
+   <elementGuidId>75700b2e-aac7-4609-9efd-3cf6afc0b2d6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.QEYsMNdeD6XNZY8gjzhC.j8nFROWmP6I422N6ipDM.QDMFZL84dmkYn_0UnY8k.RCy3C8tdsCfUkZ4tL6_j.Y9hbVvdzlYyJiEWjJ9oy.fmlLT3BGyLhEUKMImecT._drff0xP0ecktVJak07B._9FU_yg64fo4CH5kkNow.Qd1Jn4yeF53ES8YhK6VM</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='main-user-menu-toggle']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b1707786-37f1-4fad-9294-3eba2a8957ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>expanded</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>bfd410e0-f19f-4142-a2d7-51155c46d83d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>QEYsMNdeD6XNZY8gjzhC j8nFROWmP6I422N6ipDM QDMFZL84dmkYn_0UnY8k RCy3C8tdsCfUkZ4tL6_j Y9hbVvdzlYyJiEWjJ9oy fmlLT3BGyLhEUKMImecT _drff0xP0ecktVJak07B _9FU_yg64fo4CH5kkNow Qd1Jn4yeF53ES8YhK6VM</value>
+      <webElementGuid>be06b28c-3e95-44c1-97a4-544746e55f88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-user-menu-toggle&quot;)/span[@class=&quot;QEYsMNdeD6XNZY8gjzhC j8nFROWmP6I422N6ipDM QDMFZL84dmkYn_0UnY8k RCy3C8tdsCfUkZ4tL6_j Y9hbVvdzlYyJiEWjJ9oy fmlLT3BGyLhEUKMImecT _drff0xP0ecktVJak07B _9FU_yg64fo4CH5kkNow Qd1Jn4yeF53ES8YhK6VM&quot;]</value>
+      <webElementGuid>e913943a-ea3f-4810-ac80-0d20d51e423f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='main-user-menu-toggle']/span</value>
+      <webElementGuid>95144f8f-ebda-4503-ab66-95bf408f76a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button/span</value>
+      <webElementGuid>22a77c2b-046d-4ca5-a102-24e7fca8329f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
